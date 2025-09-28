@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IvanovJavaTasks {
+public class FilippovJavaTasks {
     
     // Задача 1: Сравнение и операции с числами
     public static void numberOperations() {
